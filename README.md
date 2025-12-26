@@ -6,7 +6,7 @@ The application leverages Redux Toolkit for predictable state management, React 
 
 This project serves as a solid foundation for building scalable React applications using modern tooling and best practices.
 
-## PasteApp Structure
+📌 PasteApp Structure
 pasteApp/
 │
 ├── node_modules/
