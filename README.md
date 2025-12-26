@@ -8,7 +8,8 @@ This project serves as a solid foundation for building scalable React applicatio
 
 📌 PasteApp Structure
 
-pasteApp/
+```
+PasteApp/
 │
 ├── node_modules/
 ├── public/
@@ -25,4 +26,5 @@ pasteApp/
 ├── postcss.config.js
 ├── vite.config.js
 └── package.json
+```
 
